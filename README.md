@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kenneth Rodrigues</h1>
-<h3 align="center">A Full Stack developer, Data Science and AIML enthusiast</h3>
+<h3 align="center">A full-stack engineer, Data Science and AIML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethnrk&label=Profile%20views&color=0e75b6&style=flat" alt="kennethnrk" /> </p>
 
-- 🌱 I’m currently learning **Typescript, Blockchain, GenAI**
+- 🌱 I’m currently learning **Scalable distributed systems - design and implementation, Vector databases, Quantum Computing**
 
-- 💬 Ask me about **React, Python, Django, ML, Neural Networks**
+- 💬 Ask me about **React, React Native, Python, Django, Go, Machine Learning, GenAI, AWS**
 
 - 📫 How to reach me **kenneth.nrk123@gmail.com**
 
